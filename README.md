@@ -8,7 +8,7 @@ I am a Full-stack web application developer, basically I love to develop applica
 
 Skills: HTML, CSS, PHP, JAVASCRIPT, Laravel, Wordpress, VueJs, ReactJs, Tailwind css, Bootstrap, Nodejs, ExpressJs, Mysql, PgSql, Oracle, Sqlite, Git, Docker, CI/CD pipeline, VPS configuration, Web server installation
 
-- 🔭 I’m currently working on On E-commerce solutions 
+- 🔭 I’m currently working on big budget E-commerce solutions 
 - 🌱 I’m currently learning DevOps 
 - 💬 Ask me about you dream website, web application 
 - 📫 How to reach me: moinuddin7@gmail.com, +8801716187302, www.linkedin.com/in/mohammed-minuddin-peal-20464026 
